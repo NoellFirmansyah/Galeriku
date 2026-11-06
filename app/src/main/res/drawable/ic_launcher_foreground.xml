@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Kartu foto putih, rounded -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M29,32 L79,32 A6,6 0 0 1 85,38 L85,76 A6,6 0 0 1 79,82 L29,82 A6,6 0 0 1 23,76 L23,38 A6,6 0 0 1 29,32 Z" />
+
+    <!-- Langit -->
+    <path
+        android:fillColor="#5AC8FA"
+        android:pathData="M27,38 L81,38 L81,70 L27,70 Z" />
+
+    <!-- Matahari -->
+    <path
+        android:fillColor="#FFD60A"
+        android:pathData="M64,50 m-7,0 a7,7 0 1,1 14,0 a7,7 0 1,1 -14,0" />
+
+    <!-- Gunung belakang -->
+    <path
+        android:fillColor="#34C759"
+        android:pathData="M27,70 L46,52 L60,66 L68,58 L81,70 Z" />
+
+    <!-- Gunung depan -->
+    <path
+        android:fillColor="#248A3D"
+        android:pathData="M27,70 L40,58 L52,70 Z" />
+</vector>
